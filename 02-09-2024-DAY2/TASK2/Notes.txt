@@ -1,0 +1,16 @@
+What does AWS Migrate do?
+
+Assessment:
+    Server name: Instance name 
+    Create Azure migrate project 
+    Refresh Azure migrate page after uploading assessment done 
+
+Migration:
+    Create Azure SQL database, Add client IP 
+    Create DB in local 
+
+From VM:
+    Create VM
+    Connect to VM via Bastion
+    Install SSMS, DMA
+    Do Assessment and Migration

@@ -1,0 +1,10 @@
+Create 2 linked services (one for blob, another for db)
+
+File path - give file's path in storage account by browsing, Select sheet
+Import schema - from connection / store
+First line as header 
+
+Create Table in SQL db with req columns and its types 
+Import schema - from connection / store
+
+Then publish changes
