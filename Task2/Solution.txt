@@ -1,0 +1,15 @@
+Create a Private Github Repo 
+Create a Gitlab Repo 
+Set up SSH key for Gitlab 
+
+Generate Access token and set up Mirroring Repository in Gitlab
+
+Go to Github Repo 
+git push --mirror https://gitlab.com/migration1093236/AzureCICD.git (Gitlab)
+
+Reference docs:
+SSH: https://docs.gitlab.com/ee/user/ssh.html
+Duplicate a Repo: https://docs.github.com/en/repositories/creating-and-managing-repositories/duplicating-a-repository
+Gitlab Mirroring: 
+    https://forum.gitlab.com/t/error-when-trying-to-push-mirror-gitlab-private-project-to-github-private-repo/45937/2
+    https://docs.gitlab.com/ee/user/project/repository/mirror/index.html
