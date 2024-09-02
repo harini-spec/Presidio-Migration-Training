@@ -1,0 +1,37 @@
+.main-container {
+    margin-top: 2% !important;
+    width: 50%;
+    margin: auto;
+}
+
+button {
+    margin-top: 10px !important;
+}
+
+.task-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+p {
+    margin: 0 !important;
+}
+
+.task {
+    margin: 5px;
+}
+
+.buttons * {
+    margin-right: 10px !important;
+}
+
+.edit-form {
+    width: 400px !important;
+}
+
+@media (max-width: 820px) {
+    .edit-form {
+        width: 200px !important;
+    }
+}
